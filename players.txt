@@ -1,0 +1,16 @@
+GK - Gk1
+GK - Gk2
+1 - Jog1 - Zag 
+2 - Jog2 - Zag/Ala
+3 - Jog3 - Ala/Meia
+4 - Jog4 - Ala
+5 - Jog5 - Ala
+6 - Jog6 - Ala/Meia
+7 - Jog7 - Meia
+8 - Jog8 - Meia
+9 - Jog9 - Meia
+10 - Jog10 - Meia
+11 - Jog11 - Meia/Ala
+12 - Jog12 - Meia
+13 - Jog13 - Ata
+14 - Jog14 - Ata/Meia
